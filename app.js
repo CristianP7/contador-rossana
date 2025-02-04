@@ -1,4 +1,4 @@
-const fechaFutura = new Date("2025-04-14T00:00:00");
+const fechaFutura = new Date("2025-04-17T05:00:00");
 
 function calcularTiempoRestante() {
     const ahora = new Date();
