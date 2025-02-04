@@ -105,7 +105,7 @@ body {
 @media screen and (max-width: 600px) {
   /* Body background update */
   body {
-    height: 100vh;
+    height: ;
     display: flex;
     background-image: linear-gradient(#00000067, #0000009a), url(assets/img/background_mobile\ \ 300px.JPG);
     background-repeat: no-repeat;
